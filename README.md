@@ -2,6 +2,32 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Added Dependencies
+
+### `react-router-dom`
+
+For declarative routing inside the React app.
+
+### `bootstrap | react-bootstrap`
+
+For styling and React components based on Bootstrap
+
+### `date-fns`
+
+Formatting dates and times
+
+### `windows-iana`
+
+For translating Windows time zones to IANA format
+
+### `msal-react`
+
+Authenticating to Azure AD and retrieving access tokens
+
+### `microsoft-graph-client`
+
+Making calls to Microsoft Graph
+
 ## Available Scripts
 
 In the project directory, you can run:
